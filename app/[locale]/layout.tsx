@@ -6,8 +6,8 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Digital Suraksha — Cyber Safety & Grievance Redressal',
-  description: 'Scan suspicious messages, links, and files. Learn your rights and file cybercrime complaints.',
+  title: 'FraudLens — See the fraud before it sees you',
+  description: 'See the fraud before it sees you. Scan suspicious messages, links, QR codes and files, learn your rights, and find help reporting cybercrime.',
 };
 
 export function generateStaticParams() {
