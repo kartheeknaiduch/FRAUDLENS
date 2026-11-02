@@ -22,7 +22,7 @@ export default async function AboutPage() {
           {t('privacyText')}
         </p>
         <p className="text-ink/70 leading-relaxed text-sm">
-          Digital Suraksha is designed as a privacy-first utility. Scanned contents (URLs, SMS texts, Emails) are analyzed through pattern matching and heuristic engines. Where third-party APIs (like VirusTotal) are used, only the required payload (such as a hashed URL) is transmitted. No personal identifiable information is stored on our servers.
+          FraudLens is designed as a privacy-first utility. Scanned contents (URLs, SMS texts, Emails) are analyzed through pattern matching and heuristic engines. Where third-party APIs (like VirusTotal) are used, only the required payload (such as a hashed URL) is transmitted. No personal identifiable information is stored on our servers.
         </p>
       </div>
     </div>
