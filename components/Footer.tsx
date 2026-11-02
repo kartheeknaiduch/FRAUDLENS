@@ -38,7 +38,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="page-wrap mt-12 pt-6 border-t border-white/10 text-xs opacity-60 text-center">
-        © {new Date().getFullYear()} Digital Suraksha Initiative.
+        © {new Date().getFullYear()} FraudLens — See the fraud before it sees you.
       </div>
     </footer>
   );
