@@ -1,6 +1,6 @@
 {
   "nav": {
-    "brand": "Digital Suraksha",
+    "brand": "FraudLens",
     "home": "Home",
     "check": "Check Now",
     "scams": "How Scams Happen",
@@ -153,7 +153,7 @@
     "urgentNote": "⚠ Live financial fraud? Call 1930 immediately, before filing the online complaint — the call can trigger a faster transaction freeze with your bank."
   },
   "about": {
-    "h1": "About Digital Suraksha",
+    "h1": "About FraudLens",
     "p": "A citizen digital-literacy initiative concept. Legal information is simplified for awareness; always verify current provisions and consult the helpline or a lawyer for your specific case.",
     "privacy": "Privacy Policy",
     "privacyText": "We do not store your scanned messages, links, or files. All scans are processed server-side and discarded after display. We collect only anonymized aggregate statistics (verdict counts, scam pattern frequency) to track trends. No personal data is retained."
