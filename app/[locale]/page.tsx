@@ -16,7 +16,7 @@ export default async function HomePage() {
         <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
           
           <div className="animate-fadein" style={{ animationDelay: '0.1s' }}>
-            <div className="chip mb-6">Digital Suraksha</div>
+            <div className="chip mb-6">FraudLens — See the fraud before it sees you</div>
             <h1 className="text-5xl md:text-6xl font-display font-extrabold leading-tight tracking-tight text-ink mb-6 text-balance">
               {t('heroH1')} <span className="text-marigold-deep">{t('heroAccent')}</span>
             </h1>
